@@ -1,16 +1,1 @@
-[Sun Jan 29 15:31:48 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:31:48 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:34:54 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:34:54 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:35:13 2012] [error] [client 127.0.0.1] Invalid method in request \x16\x03\x01
-[Sun Jan 29 15:35:13 2012] [error] [client 127.0.0.1] Invalid method in request \x16\x03\x01
-[Sun Jan 29 15:42:25 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:42:25 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:43:35 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:43:35 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:44:04 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:44:04 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:44:32 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:44:32 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:47:21 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
-[Sun Jan 29 15:47:21 2012] [error] [client 127.0.0.1] client denied by server configuration: C:/dev/Git/libexec/git-core/git-http-backend.exe
+test
